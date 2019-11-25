@@ -1,7 +1,6 @@
 # Implementation of Discrete Hidden Markov Model  
 
 
-![image](hw1/HMM_figure.png)
-
+![image]()
 
 
