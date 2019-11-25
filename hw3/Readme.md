@@ -5,3 +5,5 @@
 3. Generate ZhuYin-Big5.map from Big5-ZhuYin.map
 4. Using disambig to decode testdata/xx.txt
 4. Using mydisambig to decode testdata/xx.txt
+
+![image](https://github.com/muachilin/Digital-Speech-Processing/blob/master/hw3/flow_chart.png)
